@@ -22,7 +22,7 @@ body::before{
 
 }
 body::after{
-    content:"Made With ❤️ by Sanjila Gangaju";
+    content:"Made With ❤️ by - Sanjila Gangaju";
     position: absolute;
     bottom: 50px;
     font-size: 0.9rem;
