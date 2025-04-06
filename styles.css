@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 :root {
-    --bg1-color: linear-gradient(to right, rgb(245, 214, 220), rgb(236, 122, 134));
+    --bg1-color: linear-gradient(to right, rgb(220, 178, 186), rgb(226, 204, 207));
 
   --bg-color: rgb(0, 0, 0);
   --sec-color: rgb(255, 255, 255);
@@ -22,7 +22,7 @@ body::before{
 
 }
 body::after{
-    content:"Made With ❤️ Sanjila Gangaju";
+    content:"Made With ❤️ by Sanjila Gangaju";
     position: absolute;
     bottom: 50px;
     font-size: 0.9rem;
